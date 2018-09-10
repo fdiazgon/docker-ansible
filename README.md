@@ -21,4 +21,4 @@ Most of the images also contains extra packages to be able to use some Ansible m
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
